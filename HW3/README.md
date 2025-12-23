@@ -1,1 +1,1 @@
-Ссылка на [Colab] (https://colab.research.google.com/drive/1Xg2Qx22sXoIfH-v8n_5KYZ1gn5cFqof0?usp=sharing)
+Ссылка на [Colab](https://colab.research.google.com/drive/1Xg2Qx22sXoIfH-v8n_5KYZ1gn5cFqof0?usp=sharing)
